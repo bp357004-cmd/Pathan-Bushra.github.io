@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bp357004-cmd.github.io/Pathan-Bushra.github.io/sitemap.xml
